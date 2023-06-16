@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Box-Counting:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Box_Counting_jar</output-path>
+    <root id="archive" name="Box-Counting.jar">
+      <element id="module-output" name="Box-Counting" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JavaDrivers/xchart-3.8.2/xchart-3.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
